@@ -96,7 +96,7 @@ function HomeContent() {
   );
 }
 
-export default function Home() {
+export default function DemoPage() {
   return (
     <Suspense
       fallback={
